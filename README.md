@@ -1,5 +1,6 @@
-- 👋 Hola , soy Claudio Roman 
- Estoy interesado en aprender mucho sobre la programación y poder desarrollar grandes proyectos asi como tambien
- ayudar a aquellos que necesiten de mi ayuda.
+Estudiante de Ingeniería Civil Informática en la Universidad Viña Del Mar. 
+ Estoy interesado en adquirir conocimientos entregados por la comunidad de GitHub 
+ 
+
 
 
